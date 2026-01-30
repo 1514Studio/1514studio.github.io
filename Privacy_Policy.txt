@@ -1,0 +1,83 @@
+Privacy Policy
+
+studio1514 (“we,” “our,” or “us”) operates mobile games and related services (the “Service”).
+This Privacy Policy explains how we collect, use, and protect personal information when users use our Service.
+
+1. Purpose of Processing Personal Information
+We process personal information solely for the following purposes:
+Providing and operating the game service
+Managing gameplay features such as rankings and scores
+Ensuring service security and preventing fraudulent or abusive activities
+Analyzing service usage to improve gameplay experience
+Displaying advertisements through third-party advertising platforms
+We do not use personal information for purposes other than those stated above.
+
+
+2. Personal Information Collected
+We process only the minimum information necessary to operate the Service.
+
+(1) Information Automatically Processed
+IP address
+Used temporarily to determine approximate region and detect abnormal or abusive activity
+Not stored and immediately discarded after processing
+Device and usage information
+App usage data, interaction events, and crash logs
+Collected through analytics and advertising SDKs
+
+(2) Information Not Collected
+We do not collect names, email addresses, phone numbers, or payment information directly.
+We do not require account registration.
+
+
+3. Use of Third-Party Services
+The Service uses third-party SDKs that may collect information independently in accordance with their own privacy policies.
+Third-party services used:
+Google AdMob (advertising)
+Google Firebase Analytics (analytics and performance measurement)
+These services may collect device identifiers, advertising identifiers, and usage data.
+Users can opt out of personalized advertising through their device settings.
+
+
+4. Retention and Destruction of Personal Information
+Personal information is processed only for the duration necessary to achieve its purpose.
+IP addresses are processed temporarily and destroyed immediately after use.
+Analytics data is retained in aggregated form and does not directly identify individuals.
+Personal information is destroyed without delay when it is no longer necessary, in accordance with applicable laws and internal policies.
+
+
+5. User Rights
+Users may exercise the following rights at any time:
+Request access to personal information
+Request correction or deletion
+Request restriction of processing
+Requests may be submitted through the contact information provided below.
+
+
+6. Cookies and Automatic Data Collection Devices
+The Service does not use cookies directly.
+However, third-party SDKs may use similar technologies in accordance with their own policies.
+
+
+7. Data Security Measures
+We implement reasonable technical and administrative measures to protect personal information, including:
+Access control to systems processing personal information
+Restriction of internal access permissions
+Security monitoring to prevent unauthorized access
+IP addresses are not stored, and all processed data is handled with appropriate safeguards.
+
+
+8. Children’s Privacy
+The Service is not intended for children under the age of 13.
+We do not knowingly collect personal information from children.
+
+
+9. Changes to This Privacy Policy
+This Privacy Policy may be updated to reflect changes in laws or service operations.
+Any changes will be announced in advance through in-app notices or the service website.
+
+
+10. Contact Information
+If you have any questions regarding this Privacy Policy, please contact:
+studio1514
+Website: https://x.com/galangbi4
+Email: wererat85@naver.com
